@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MortLead - Scale Your Mortgage Business with Facebook Ads</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f7f6;
+      color: #333;
+    }
+
+    header {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 50px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+    }
+
+    header p {
+      font-size: 1.2em;
+      margin: 10px 0;
+    }
+
+    header .cta-button {
+      display: inline-block;
+      padding: 15px 30px;
+      background-color: #ff6600;
+      color: white;
+      text-decoration: none;
+      font-size: 1.1em;
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+
+    header .cta-button:hover {
+      background-color: #cc5200;
+    }
+
+    .section {
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    .section h2 {
+      font-size: 2.5em;
+      color: #003366;
+      margin-bottom: 20px;
+    }
+
+    .section p {
+      font-size: 1.2em;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .section .grid {
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+    }
+
+    .section .grid .card {
+      background-color: white;
+      padding: 20px;
+      margin: 0 15px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      width: 250px;
+      text-align: center;
+    }
+
+    .section .grid .card h3 {
+      color: #003366;
+    }
+
+    .section .grid .card p {
+      font-size: 1.1em;
+    }
+
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 30px;
+    }
+
+    footer p {
+      margin: 0;
+      font-size: 1.2em;
+    }
+
+    .contact-button {
+      display: inline-block;
+      padding: 12px 25px;
+      background-color: #ff6600;
+      color: white;
+      text-decoration: none;
+      font-size: 1.1em;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+
+    .contact-button:hover {
+      background-color: #cc5200;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>MortLead</h1>
+    <p>Scale Your Mortgage Business with Facebook Ads</p>
+    <a href="#contact" class="cta-button">Book a Free Call</a>
+  </header>
+
+  <!-- Offer Section -->
+  <div class="section" style="background-color: #f0f4f8;">
+    <h2>Our Offer</h2>
+    <p>We specialize in helping mortgage businesses generate high-quality leads and appointments through Facebook Ads. Let us help you grow your business with customized campaigns and measurable results.</p>
+  </div>
+
+  <!-- Results Section -->
+  <div class="section">
+    <h2>Proven Results</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>150+ Leads/Month</h3>
+        <p>We generate high-quality leads every month for our clients, consistently driving new business.</p>
+      </div>
+      <div class="card">
+        <h3>As Low as $8.50 CPL</h3>
+        <p>Our strategies keep your cost per lead (CPL) low while maintaining high-quality leads.</p>
+      </div>
+      <div class="card">
+        <h3>200% Increase in Appointments</h3>
+        <p>We help mortgage professionals double their appointments with targeted Facebook Ads campaigns.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Why Choose Us Section -->
+  <div class="section" style="background-color: #f0f4f8;">
+    <h2>Why Choose MortLead?</h2>
+    <p>Our expertise in Facebook Ads for the mortgage industry ensures that your campaigns are optimized for maximum ROI and lead conversion. Here's why our clients choose us:</p>
+    <div class="grid">
+      <div class="card">
+        <h3>Proven Strategies</h3>
+        <p>We craft tailored strategies that fit your business needs and maximize your returns.</p>
+      </div>
+      <div class="card">
+        <h3>Mortgage-Specific Expertise</h3>
+        <p>We specialize in the mortgage industry, understanding your unique challenges and goals.</p>
+      </div>
+      <div class="card">
+        <h3>Transparent Reporting</h3>
+        <p>Our clients receive clear, detailed reports that help them understand the impact of every campaign.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact Section -->
+  <div class="section" id="contact" style="background-color: #003366; color: white;">
+    <h2>Contact Us</h2>
+    <p>Ready to take your mortgage business to the next level? Book a free strategy call with us today!</p>
+    <a href="mailto:contact@mortlead.com" class="contact-button">Contact Us</a>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 MortLead. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
